@@ -1,5 +1,3 @@
-# fullstackopen
-
 # Full Stack Open Exercises
 
 This repository contains the solutions to the exercises from the **Full Stack Open** course, a free resource that teaches web application development using modern technologies like JavaScript, React, Node.js, MongoDB, and other popular frameworks and tools. Through this course, I have learned how to build full-stack applications, managing both the frontend and backend, handling databases, user authentication, testing, and more.
